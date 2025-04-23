@@ -37,11 +37,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/ndarray-base-unary-strided1d-dispatch-factory": "github:stdlib-js/ndarray-base-unary-strided1d-dispatch-factory#main",
     "@stdlib/ndarray-dtypes": "^0.3.0",
     "@stdlib/stats-base-ndarray-cumax": "github:stdlib-js/stats-base-ndarray-cumax#main",
     "@stdlib/stats-base-ndarray-dcumax": "github:stdlib-js/stats-base-ndarray-dcumax#main",
     "@stdlib/stats-base-ndarray-scumax": "github:stdlib-js/stats-base-ndarray-scumax#main",
-    "@stdlib/stats-tools-cumulative-unary-strided-dispatch-factory": "github:stdlib-js/stats-tools-cumulative-unary-strided-dispatch-factory#main",
     "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
