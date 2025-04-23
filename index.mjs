@@ -1,4 +1,0 @@
-// Copyright (c) 2025 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
-/// <reference types="./index.d.ts" />
-import s from"https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@v0.3.0-esm/index.mjs";import t from"https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-cumax@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-dcumax@esm/index.mjs";import a from"https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-scumax@esm/index.mjs";import d from"https://cdn.jsdelivr.net/gh/stdlib-js/stats-tools-cumulative-unary-strided-dispatch-factory@esm/index.mjs";var r=d({float64:e,float32:a,default:t},[s("real_and_generic")],s("real_and_generic"),"same");const{assign:i}=r;export{i as assign,r as default};
-//# sourceMappingURL=index.mjs.map
