@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-24)
+## Unreleased (2025-04-26)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`60aea0a`](https://github.com/stdlib-js/stdlib/commit/60aea0a031600792ed138a8dafdee69ea3fdf1bf) - replace policy string with policy object
 -   [`48c6587`](https://github.com/stdlib-js/stdlib/commit/48c65874d247c4e19712d69281d219878bc746be) - update dispatch table
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`60aea0a`](https://github.com/stdlib-js/stdlib/commit/60aea0a031600792ed138a8dafdee69ea3fdf1bf) - **fix:** replace policy string with policy object _(by Athan Reines)_
 -   [`22e441e`](https://github.com/stdlib-js/stdlib/commit/22e441e3ba728abb2a8b9853187dcec3169c1f7d) - **docs:** use consistent terms _(by Athan Reines)_
 -   [`48c6587`](https://github.com/stdlib-js/stdlib/commit/48c65874d247c4e19712d69281d219878bc746be) - **fix:** update dispatch table _(by Athan Reines)_
 -   [`93f94bb`](https://github.com/stdlib-js/stdlib/commit/93f94bb85103f971545d6176ab37505c2f282b32) - **refactor:** update import path _(by Athan Reines)_
