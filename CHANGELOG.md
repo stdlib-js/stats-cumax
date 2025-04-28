@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-04-28)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`14b1d83`](https://github.com/stdlib-js/stdlib/commit/14b1d83da670984e339ce1a2ebfc6f0f37c3ccd2) - **test:** update descriptions _(by Athan Reines)_
 -   [`60aea0a`](https://github.com/stdlib-js/stdlib/commit/60aea0a031600792ed138a8dafdee69ea3fdf1bf) - **fix:** replace policy string with policy object _(by Athan Reines)_
 -   [`22e441e`](https://github.com/stdlib-js/stdlib/commit/22e441e3ba728abb2a8b9853187dcec3169c1f7d) - **docs:** use consistent terms _(by Athan Reines)_
 -   [`48c6587`](https://github.com/stdlib-js/stdlib/commit/48c65874d247c4e19712d69281d219878bc746be) - **fix:** update dispatch table _(by Athan Reines)_
