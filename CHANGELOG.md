@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`dd412c2`](https://github.com/stdlib-js/stdlib/commit/dd412c2c02d052e102d549b94b6fa114dd7e1da7) - **docs:** update examples _(by Athan Reines)_
 -   [`8ee277b`](https://github.com/stdlib-js/stdlib/commit/8ee277b29842671eff2fc121882459da260d924a) - **docs:** update note _(by Athan Reines)_
 -   [`229bafe`](https://github.com/stdlib-js/stdlib/commit/229bafecd7df43a89475b66c3e89e3c4a1f1871c) - **docs:** update note _(by Athan Reines)_
 -   [`3d75aa0`](https://github.com/stdlib-js/stdlib/commit/3d75aa008decb8d22141b80d1b528aa5167015b3) - **fix:** restrict set of allowed data types _(by Athan Reines)_
