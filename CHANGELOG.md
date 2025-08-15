@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2025-08-15)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`3d7e65d`](https://github.com/stdlib-js/stdlib/commit/3d7e65d6a7cd7b21a9172a96d2ad98f9780c5143) - **style:** re-enable lint rule _(by Athan Reines)_
 -   [`dd412c2`](https://github.com/stdlib-js/stdlib/commit/dd412c2c02d052e102d549b94b6fa114dd7e1da7) - **docs:** update examples _(by Athan Reines)_
 -   [`8ee277b`](https://github.com/stdlib-js/stdlib/commit/8ee277b29842671eff2fc121882459da260d924a) - **docs:** update note _(by Athan Reines)_
 -   [`229bafe`](https://github.com/stdlib-js/stdlib/commit/229bafecd7df43a89475b66c3e89e3c4a1f1871c) - **docs:** update note _(by Athan Reines)_
