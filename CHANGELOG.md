@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`eaa916e`](https://github.com/stdlib-js/stdlib/commit/eaa916ee6edf015a3c759e4dba766a7d1e92b95f) - **docs:** update examples _(by Athan Reines)_
 -   [`3d7e65d`](https://github.com/stdlib-js/stdlib/commit/3d7e65d6a7cd7b21a9172a96d2ad98f9780c5143) - **style:** re-enable lint rule _(by Athan Reines)_
 -   [`dd412c2`](https://github.com/stdlib-js/stdlib/commit/dd412c2c02d052e102d549b94b6fa114dd7e1da7) - **docs:** update examples _(by Athan Reines)_
