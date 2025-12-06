@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-cumax": "github:stdlib-js/stats-base-ndarray-cumax#main",
     "@stdlib/stats-base-ndarray-dcumax": "github:stdlib-js/stats-base-ndarray-dcumax#main",
     "@stdlib/stats-base-ndarray-scumax": "github:stdlib-js/stats-base-ndarray-scumax#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.2",
